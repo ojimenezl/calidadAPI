@@ -2,9 +2,9 @@
     "name": "log_rest_aunt",
     "version": "1.0.0",
     "description": "",
-    "main": "src/app.js",
+    "main": "app.js",
     "scripts": {
-        "start": "node src/index.js"
+        "start": "node src/app.js"
     },
     "author": "",
     "license": "ISC",
